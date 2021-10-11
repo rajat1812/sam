@@ -1,0 +1,11 @@
+com/rajat/Sample/R.java
+ com.rajat.Sample.R
+ com.rajat.Sample.R$id
+ com.rajat.Sample.R$mipmap
+ com.rajat.Sample.R$string
+ com.rajat.Sample.R$style
+com/unity3d/player/R.java
+ com.unity3d.player.R
+ com.unity3d.player.R$style
+com/rajat/Sample/BuildConfig.java
+ com.rajat.Sample.BuildConfig
